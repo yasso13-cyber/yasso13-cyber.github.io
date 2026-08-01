@@ -9,7 +9,6 @@ Tell the world a little bit about yourself here. You can mention your hobbies, i
 
 * **Role:** Developer / Student / Creator
 * **Location:** Usa 🌍
-* **Interests:** Coding, open-source, and building cool things.
-
----
-
+* **Interests:** Coding, open-source, and building cool thing
+* Snake
+* Snake.md
